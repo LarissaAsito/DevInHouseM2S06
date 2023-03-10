@@ -1,0 +1,3 @@
+1ª forma normal (FN) - todo atributo de uma entidade deve ser atômicos e não podem ter grupos de repetição. Exemplo: Quando tem atributo que não está no contexto da tabela
+2ª forma normal - 1FN + todo atributo de uma entidade deve depender de chave primária inteira. Exemplo: Quando tem uma tabela de chave primária composta, onde tem informações que pode ser atribuída apenas a uma chave.
+3ª forma normal -  2FN + todo atributo de uma entidade deve depender somente da chave primária. Exemplo: Quando podemos separar em uma nova tabela informações de uma outra tabela.

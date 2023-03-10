@@ -1,0 +1,2 @@
+Tipos de banco de dados: Relacional e Não relacional
+SGBDs: Oracle, SQL Server, DB2, PostgreSQL, MySQL

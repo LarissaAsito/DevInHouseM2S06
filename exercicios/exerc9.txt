@@ -1,0 +1,1 @@
+Modelo Conceitual é um conjunto de suposições baseadas no mundo real que indicarão as regas de negócio de um sistema. Esta etapa independe da escolha de tecnologias e protótipos ajudam no entendimento dos processos. Basicamente é a etapa em que transforma uma requisição em diagramas.
